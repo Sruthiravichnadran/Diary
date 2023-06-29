@@ -1,4 +1,6 @@
 
+"Use strictly"
+
 const titleInput = document.getElementById("title-input");
 const entryInput = document.getElementById("entry-input");
 const addBtn = document.getElementById("add-btn");
