@@ -1,0 +1,29 @@
+.container {
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  input, textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .entry-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
