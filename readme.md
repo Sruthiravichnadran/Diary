@@ -30,6 +30,6 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/Sruthiravichnadran/Diary.git
 
-- Live Site URL: 
+- Live Site URL: https://magical-sorbet-bf20e6.netlify.app/
