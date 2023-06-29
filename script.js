@@ -1,10 +1,10 @@
-// Get necessary elements
+
 const titleInput = document.getElementById("title-input");
 const entryInput = document.getElementById("entry-input");
 const addBtn = document.getElementById("add-btn");
 const entryList = document.getElementById("entry-list");
 
-// Function to add an entry
+
 function addEntry() {
   const titleText = titleInput.value.trim();
   const entryText = entryInput.value.trim();
@@ -32,5 +32,5 @@ function addEntry() {
   }
 }
 
-// Event listener for the add button
+
 addBtn.addEventListener("click", addEntry);

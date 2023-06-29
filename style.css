@@ -1,3 +1,4 @@
+
 .container {
     max-width: 400px;
     margin: 20px auto;
@@ -6,11 +7,16 @@
   input, textarea {
     width: 100%;
     margin-bottom: 10px;
+    background-color: rgb(236, 147, 229);
+    color: black;
+    border-radius: 7px;
   }
   
   button {
     display: block;
     margin-bottom: 10px;
+    background-color: rgb(243, 189, 200);
+    border-radius: 7px;
   }
   
   ul {
@@ -27,3 +33,7 @@
     margin-bottom: 5px;
   }
   
+  h1{
+    color: rgb(255, 127, 255);
+    margin-left: 630px;
+  }
