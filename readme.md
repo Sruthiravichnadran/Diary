@@ -22,7 +22,7 @@ Thanks for checking out this front-end coding Project.
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- JS work
+- JavaScript work
 
 ### What I learned
 
